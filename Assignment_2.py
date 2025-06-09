@@ -1,19 +1,7 @@
-Assignments
-1
-1.
-Write
-a
-function
-to
-return the
-grade
-based
-on
-percentage
+Assignments 1
+1.Write a function to return the grade based on percentage
 
 Solution:
-
-
 def getGrade(perc):
     if perc < 35:
         grade = "Fail"

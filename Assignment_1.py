@@ -1,4 +1,5 @@
 Assignment Solution [ List Problems]
+
 1.	Write a function to return a list with all the duplicate elements from the list
 def findDuplicateElements(inputList):
     # initiate an empty dictionary to count the occurrence of each elements
